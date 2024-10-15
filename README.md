@@ -15,5 +15,7 @@ color wheel or palette, because it corresponds
 better to how people experience color than the 
 RGB color space does.
 
-![image](https://github.com/user-attachments/assets/094628f0-0177-4803-b32f-801c1575fbbd)
+> ![image](https://github.com/user-attachments/assets/094628f0-0177-4803-b32f-801c1575fbbd)
+> ![image](https://github.com/user-attachments/assets/448c958e-7c4f-49cb-aa58-29722c543b6b)
+
 
