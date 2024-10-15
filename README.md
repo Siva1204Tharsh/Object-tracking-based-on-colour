@@ -6,8 +6,8 @@ Image processing is a method of extracting some useful
 information by converting image into digital inform by 
 performing some operations on it.
 
-=> The PyAutoGUI library is a Python module that automates repetitive tasks in graphical user interface (GUI)-based applications. It can control the mouse and keyboard, and perform other GUI automation tasks. 
-=> RGB Color <<< HSV color value  - efficiency 
+- The PyAutoGUI library is a Python module that automates repetitive tasks in graphical user interface (GUI)-based applications. It can control the mouse and keyboard, and perform other GUI automation tasks. 
+- RGB Color <<< HSV color value  - efficiency 
 => HSV Color Space. The HSV color space (hue, 
 saturation, value) is often used by people who are 
 selecting colors (e.g., of paints or inks) from a 
